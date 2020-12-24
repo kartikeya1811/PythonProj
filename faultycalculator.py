@@ -12,3 +12,4 @@ elif tot == "56/6":
     print(4)
 elif num2 == '*':
     print(int(num1)*int(num3))
+    
